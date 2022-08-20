@@ -137,7 +137,7 @@
     "devDependencies": {
         "typescript": "^2.6.1",
         "vscode": "^1.1.21",
-        "tslint": "^5.8.0",
+        "tslint": "^5.20.1",
         "@types/node": "^8.10.25",
         "@types/mocha": "^2.2.42"
     },
