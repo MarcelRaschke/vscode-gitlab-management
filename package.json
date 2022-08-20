@@ -143,6 +143,6 @@
     },
     "dependencies": {
         "@types/node-fetch": "^2.1.4",
-        "node-fetch": "^2.3.0"
+        "node-fetch": "^3.2.9"
     }
 }
